@@ -1,3 +1,3 @@
 Тестовое задание 
 
-![Alt text](/relative/path/to/Снимок.png?raw=true "Optional Title")
+![Alt text](/mnt/c/Users/radga/Desktop/test_/Снимок.png?raw=true "Optional Title")
