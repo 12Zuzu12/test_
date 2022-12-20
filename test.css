@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.figure{
+    margin: 0;
+    padding: 0;
+    width: 800px;
+    height: 800px;
+    background-color: #C0C0C0;
+}
+.circle{
+position: absolute;
+left: 430px;
+top: 270px;
+background-color: #2E8B57;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+z-index: 2;
+}
+.triangle{
+position: absolute;
+left: 600px;
+top: 0;
+width: 0;
+height: 0;
+border-bottom: 200px solid red;
+border-left: 200px solid transparent;
+}
+.big_circle{
+position: absolute;
+top: -50px;
+left: -100px;
+background-color: 	#006400;
+width: 500px;
+height: 500px;
+border-radius: 50%;
+}
+.rectangle{
+position: absolute;
+bottom: 300px;
+left: 50px;
+width: 650px;
+height: 150px;
+border-radius: 30px;
+background-color:	#9932CC; 
+z-index: 1;
+
+}
+.rectangle_rounded{
+position: absolute;
+ top: 330px;
+ left: 40px;
+background-color: #191970;
+width: 700px;
+height: 100px;
+transform: rotateZ(45deg)
+
+
+}
