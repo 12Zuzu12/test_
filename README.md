@@ -1,3 +1,3 @@
 Тестовое задание 
 
-![Alt text](/mnt/c/Users/radga/Desktop/test_/Снимок.png?raw=true "Optional Title")
+[![image.png](https://i.postimg.cc/Rh2hyzSf/image.png)](https://postimg.cc/7JMqJdTY)
